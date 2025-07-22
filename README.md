@@ -243,19 +243,3 @@ npm run db:generate
 **PDF Generation Issues**
 - Puppeteer dependencies may need to be installed
 - Check server logs for detailed error messages
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📞 Support
-
-For support or questions, please create an issue in the repository.
